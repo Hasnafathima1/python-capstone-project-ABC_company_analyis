@@ -1,1 +1,1 @@
-# python-capstone-project-ABC_company_analyis
+# python-capstone-project-ABC_company_analysis
